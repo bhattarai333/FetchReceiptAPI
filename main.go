@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"       //go get github.com/gin-gonic/gin
+	"github.com/gin-gonic/gin"       // go get github.com/gin-gonic/gin
 	"github.com/lithammer/shortuuid" // go get github.com/lithammer/shortuuid
 	"log"
 	"math"
